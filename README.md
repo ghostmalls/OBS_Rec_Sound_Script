@@ -29,5 +29,3 @@ A simple Python script for OBS Studio that plays custom sound notifications when
 - Make sure your sound files exist at the specified paths
 - Keep your sound files short to avoid overlapping
 
-## License
-MIT License
